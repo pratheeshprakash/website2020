@@ -1,0 +1,10 @@
+#scrollVideo {
+    height: 100vh;
+    /*background-color: #FBFAFB;*/
+}
+
+#scrollVideo video {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;/*allows the object to be sized to the container while maintaining aspect ratio*/
+}
