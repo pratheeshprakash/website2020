@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#scrollVideo {
+    height: 100vh;
+    /*background-color: #FBFAFB;*/
+}
+
+#scrollVideo video {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;/*allows the object to be sized to the container while maintaining aspect ratio*/
+}
+
+#scrollVideo h1 {
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    font-size: 60px;
+}
+
+#startSection {
+    height: 100vh;
+    background-color: #0C9957;
+}
+
+#startSection h1 {
+    padding-top: 300px;
+    text-align: center;
+    font-size: 60px;
+}
+
+#endSection {
+    height: 100vh;
+    background-color: #3F83F0;
+}
+
+#endSection h1 {
+    padding-top: 300px;
+    text-align: center;
+    font-size: 60px;
+}
+
+#oneMoreSection {
+    height: 100vh;
+    background-color: #FF5FC5;
+}
+
+#oneMoreSection h1 {
+    padding-top: 300px;
+    text-align: center;
+    font-size: 60px;
+}
+p font-family helvetica {
+    font-size: 24px;
+}
