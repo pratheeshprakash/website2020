@@ -60,4 +60,4 @@ setInterval(() => {
     delay += (scrollpos - delay) * accVal;
     // console.log(delay);
     video.currentTime = delay;
-}, 33.3); //frame rate 30 fps
+}, 33.3); //frame rate 30 fps time in ms
