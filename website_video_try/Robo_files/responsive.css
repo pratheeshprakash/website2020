@@ -1,0 +1,1658 @@
+
+/* =============================== Start: (min-width: 320px) and (max-width: 479px) =============================== */
+@media (min-width: 320px) and (max-width: 479px) {
+.no-mobi-pad {
+	padding: 0px;
+}
+.banner {
+	height: 270px;
+	margin-top: 0px;
+}
+.navbar-responsive {
+	background: #fff;
+    /*box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.39);*/
+    border-radius: 0px;
+    margin: 0px;
+    padding: 5px 0px;
+    position: relative;
+}
+.navbar-toggle {
+	border: none;
+}
+.navbar-brand > img {
+	margin:0px !important;
+	width: 105px;
+    height: 36px;
+}
+.header-sec {
+	position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 100;
+    width: 100%;
+}
+.banner-responsive {
+	margin-top: 60px;
+}
+.navbar-inverse .navbar-nav > li > a {
+	font-size: 12px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.navbar-nav-responsive {
+	background-color: #fff;
+	display: none;
+}
+.bannercontent h2 {
+	font-size: 33px;
+  font-weight: bold;
+  letter-spacing: 1.18px;
+  color: #4e4e4e;
+}
+.bannercontent p {
+	position: relative;
+	left: 0px;
+	text-align: left;
+	/*top:20px;*/
+	line-height: 1.71;
+    letter-spacing: 0.5px;
+	font-size: 14px;
+}
+.secondsection h2 {
+	width: 276px;
+    height: 52px;
+	text-align: left;
+	font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.86px;
+    color: #4e4e4e;
+}
+.secondsection p {
+	font-size: 14px;
+	text-align: left;
+	font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: 0.5px;
+  color: #000000;
+}
+.section2 .section2Img img {
+   width: 185px;
+    height: 233px;
+    /* padding-top: 36px; */
+    text-align: center;
+    margin-bottom: 0px !important; 
+    margin-top: 35px;
+}
+.section2 .section2Img {
+	margin-bottom: 0px;
+    padding-top: 12px;
+   height: 122px;
+   width: 100%;
+}
+.section2 .section2bg {
+	background-color: #26282d !important;
+    height: auto;
+    margin-top: 110px;
+    padding-top: 30px;
+    padding-right: 20px;
+}
+.section2 .section2bg h3{
+	font-size: 14px;
+	margin: 6px 10px;
+}
+.section2 .section2bg .content1 {
+	margin: 20px auto 0px;
+	width: 270px;
+}
+.btn-custom {
+	font-size: 14px;
+	/*display: none;*/
+}
+.section2 .btn-lineup {
+	width: 261px;
+    height: 53px;
+    border-radius: 35.5px;
+    box-shadow: 0 15px 28px 0 rgba(0, 0, 0, 0.08);
+    background-color: #ffffff;
+	font-size: 14px;
+}
+.section2 .btn-lineup span {
+	margin-right: 0px !important;
+	line-height: 48px !important;
+}
+.lineup .arrow img {
+    width: auto;
+    position: relative;
+    top: 0px;
+    width: 8px;
+    height: 15px;
+    left: 3px;
+}
+.lineup img {
+	position: relative;
+	top: 7px;
+    width: 33px;
+    height: 33px;
+    left: 5px;
+}
+.section4.Construction {
+	margin-top: -55px !important;
+	padding-top: 0px !important;
+}
+.section4 .content h1 {
+	font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.86px;
+    color: #4e4e4e;
+	margin-top: 70px;
+}
+.section6.applications h2 {
+	font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.86px;
+    text-align: center;
+    color: #4e4e4e;
+    margin: 0px !important;
+    margin-top: 35px !important;
+}
+.panel-group .panel-heading + .panel-collapse > .panel-body {
+	font-size: 14px;
+	width: 100%;
+}
+.btn-accordian.collapsed {
+	font-size: 18px;
+}
+.textureapplication {
+    bottom: 160px;
+    left: 0px;
+    height: auto;
+    width: 100%;
+}
+.applicationimg {
+    margin-top: 10px;
+    margin-bottom: 150px;
+}
+.applicationbackgroundimg img {
+   position: relative;
+    width: 270px;
+    height: 275px;
+    float: right;
+    margin-right: 0px;
+    margin-top: 25px;
+}
+.applicationbackgroundimg {
+    padding: 25px 0px 0px 10px;
+    height: 246px;
+    position: relative;
+    width: 100%;
+}
+#modulearea {
+    margin-top: 220px;
+}
+.logosection img {
+	width: 100%;
+}
+.section4 .content p {
+	font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #4e4e4e;
+}
+
+.section4 .arcBox .content h3 {
+	font-size: 16px;
+  font-weight: bold;
+  /*line-height: 3.88;*/
+  letter-spacing: 0.57px;
+  color: #b0133b;
+}
+.section4 .arcBox .content p {
+	font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: 0.5px;
+    color: #4e4e4e;
+}
+.section2 {
+	margin-top: 0px;
+	display: none;
+}
+.titlecontent p {
+	letter-spacing: 0.3px;
+	font-size: 14px;
+	line-height: 24px;
+}
+.logo img {
+	margin: 10px auto;
+   width: 232px !important;
+    height: 78px;
+    left: 0px !important;
+}
+.titlecontent {
+	margin: 15px auto;
+}
+.titlecontent .text-center img {
+	width: 270px;
+}
+.section2content h2 {
+	font-size: 22px;
+	line-height: 29px;
+	letter-spacing: 0.2px;
+	text-align: left;
+}
+.section2img img {
+	width: 250px;
+	margin-top: 35px;
+}
+.content1 img {
+	position: relative;
+	width: 46px;
+	margin-left: 0px;
+}
+.section3 {
+	padding:20px;
+}
+.section4 .Construction p {
+	text-align: center;
+	letter-spacing: 0.2px;
+	font-size: 14px;
+}
+.constructioncontent .text-center img {
+	margin-left:-5px;
+	width: 100%;
+	margin-bottom: 30px;
+}
+.constructioncontent {
+	padding: 20px;
+}
+.constructioncontent .titlecontent h3 {
+	font-size: 18px;
+	font-weight: 600;
+	line-height: 22px;
+	letter-spacing: 0.5px;
+}
+.section4 h2 {
+	text-align: center;
+	font-size: 23px;
+}
+.bannercontent {
+    padding: 0px 18px 0px 18px;
+   margin-left: 0px;
+   margin-right: 0px;
+   margin-top: 0px;
+    margin-bottom: 30px;
+}
+.imghero {
+	margin: 25px 0px 60px;;
+    width: 265px !important;
+    height: 340px;
+    background-position: none;
+    float: right;
+    background-repeat: no-repeat;
+}
+.section5img img {
+	width: 100%;
+}
+.section5 p {
+	width: 100%;
+	letter-spacing: 0.3px;
+	font-size: 14px;
+	line-height: 24px;
+}
+.section6 .text-center p {
+	letter-spacing: 0.3px;
+	font-size: 14px;
+	line-height: 24px;
+}
+.panel-body {
+	letter-spacing: 0.3px;
+	font-size: 14px;
+	line-height: 24px;
+}
+.section5background .panel-collapse .panel-body {
+	width: 100% !important;
+	font-weight: 300 !important;
+	padding-left: 27px !important;
+}
+.apllicationimg img {
+	width: 100%;
+    height: 100%;
+}
+.apllicationcontent {
+	padding:10px;
+}
+#modulearea {
+	padding:0px;
+}
+.content1 p {
+	font-size: 14px;
+	line-height: 24px;
+	letter-spacing: 0.3px;
+}
+.section5 h2 {
+	text-align: center;
+	font-size:25px;
+}
+.section6 .text-center h2 {
+	text-align: center;
+	font-size: 22px;
+	line-height: 29px;
+	letter-spacing: 0.2px;
+}
+.section6 .applications {
+	padding: 20px;
+}
+.logo {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.contactdetails .logo img {
+	width: 150px;
+	/*margin-left: -20px;*/
+    margin-top: 20px
+    left:0px !important
+}
+.logo1 {
+	display: none;
+}
+.logoMoboShow {
+	display: block;
+	padding: 30px 0px;
+}
+ .contactdetails .logo1 p img {
+ 	left: 0px;
+ 	top: 0px;
+ }
+ .contact-deatils1 h4 {
+ 	 font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0.57px;
+  color: #ffffff;
+ }
+ .contact-deatils1 a {
+ 	font-size: 14px;
+  letter-spacing: 0.5px;
+  color: #ffffff;
+  height: 30px; 
+ } 
+ .contact-deatils1 p {
+ 	font-size: 14px;
+ }
+ .contact-deatils2 h4 {
+ 	font-size: 16px;
+    height: 22px;
+ 	position: relative;
+ }
+ .contact-deatils2 li a {
+ 	font-size: 14px;
+ 	position: relative;
+ }
+.logo1 {
+    position: relative;
+}
+.copyright p {
+	line-height: 30px;
+	text-align: center;
+ }
+ .footerLink {
+  text-align: center;
+}
+ .copyright {
+   padding: 10px 0px 30px;
+ } 
+ .section5 .section5background {
+    background-image: url(../img/img-texture-ui.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    height: 350px;
+    width: 295px;
+    padding-top: 64px;
+    position: relative;
+    left: 20px;
+    bottom: 25px;
+}
+.section5 .section5background .rectangle {
+    background-color: #26282d;
+    padding: 20px 0px 20px;
+    position: relative;
+    width: 100%;
+    height: 625px;
+    left: 0px;
+    z-index: 99;
+}
+.section5 .section5background .rectangle h2 {
+  font-family: Archivo;
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.86px;
+  color: #ffffff;
+}
+.getintouchsection {
+	padding: 0px 0px 0px;
+	padding-bottom: 35px;
+}
+.getintouchsection .getintouch .requestdemo1 h2 {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 34px;
+}
+.contact-deatils {
+	padding-left: 35px;
+}
+.contact-deatils p {
+	line-height: 20px;
+}
+.footer-sec li {
+	line-height: 20px;
+}
+.ourModules h2 {
+	text-align: center;
+	font-size: 22px;
+	line-height: 29px;
+	letter-spacing: 1.2px;
+}
+.ourModules .modulescontent h4 {
+	 font-size: 16px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 3.88;
+  letter-spacing: 0.57px;
+  text-align: center;
+  color: #f7f7f7;
+}
+.modulescontent h6 {
+	font-size: 10px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.54px;
+  text-align: center;
+  color: #f7f7f7;	
+}
+
+.ourModules p {
+	font-size: 16px;
+    letter-spacing: 0.57px;
+    text-align: center;
+    color: #000000;
+}
+.ourModules .modulescontent p {
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: #f7f7f7;
+    height: auto;
+}
+.modulescontent img {
+	margin-top: 15px;
+	/*width: 60px;
+    height: 16px;*/
+}
+.ourModules .moduleImg img {
+    width: 100%;
+    height: 100%;
+    bottom: 0px;
+    position: relative;
+    margin-bottom: -40px;
+}
+.requestdemo1 p {
+	font-size: 14px;
+	width:100%;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #ffffff;
+}
+.section6 .applications {
+	padding: 30px;
+}
+.section2content p {
+	font-size: 14px;
+	line-height: 24px;
+	letter-spacing: 0.3px;
+}
+.contactbtn button {
+	/*margin-left: -44px;*/
+	padding: 7px 15px;
+	margin-top: 30px;
+  width: 191px;
+    height: 44px;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 0.43px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left:0px !important;
+}
+.ourModules .modulescontent{
+	width: 100%;
+	height: auto;
+	padding-bottom: 0px;
+}
+.contactdetails {
+	padding:0px;
+}
+.contactdetails address {
+	font-size: 14px;
+	letter-spacing: 0.5px;
+  height: 24px;
+}
+address {
+	margin-bottom: 7px !important;
+}
+.contact-deatils2 {
+    position: relative;
+    padding: 15px 23px;
+    border-top: 1px solid #f8f8f82b;
+    border-bottom: 1px solid #f8f8f82b;
+}
+.panel-title a {
+    font-size: 18px;
+    padding-left: 0px;
+}
+.nav-pills > li {
+	margin: 0px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+}
+.modal-dialog-contactus {
+	width: 100%;
+}
+.modal-content-contactus {
+	padding: 10px;
+}
+.modal-body {
+	padding: 0px;
+}
+.modal-title-contactus {
+	font-size: 22px;
+}
+.btn-primary {
+	float: none;
+	left: 0px;
+}
+.modal-header-contactus .modal-contactus-heading-border {
+	background-image: linear-gradient(to right, #b3b3b3, #b3b3b3);
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover {
+	background-color: #b3b3b3;
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+	background-color: #000;
+}
+.section5 .section5background .rectangle .panel-title a[aria-expanded="false"]::before {
+    position: absolute;
+    left: -13px;
+    top: 5px;
+    background: #fff;
+    width: 6px;
+    height: 6px;
+    border-radius: 10px;
+    padding: 0px;
+    content: "";
+}
+.section5 .section5background .rectangle .panel-default::before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 3px;
+    background-color: #525252;
+    left: 13px;
+}
+.section5 .section5background .rectangle .panel-title a[aria-expanded="true"]::before {
+    position: absolute;
+   /* content: url(../img/icn-scroll.png);*/
+    left: -21px;
+    top: -4px;
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    border-radius: 30px;
+    padding: 1px 5px;
+}
+.comparisonmodal .modal-header h2 {
+	font-size: 22px;
+}
+.comparisonmodal .modal-content {
+	padding: 30px 10px; 
+}
+.comparisonmodal .comparisonTable .column h1 {
+	font-size: 17px;
+	padding: 10px 0px 10px 23px;
+}
+.comparisonmodal .modal-header h6 {
+	margin-bottom: 10px;
+}
+/*.comparisonmodal .modal-body {
+	height: 400px !important;
+}*/
+.modal-content-contactus form {
+	padding:20px 0px 20px 0px !important;
+}
+.pr-8 {
+	padding-right: 16px !important;
+}
+.pl-8 {
+	padding-left: 15px !important;
+}
+.btn-modal-contactus-submit {
+	/*margin-left: -30px;*/
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+	background-color: #fff;
+	border-color: #000;
+}
+.contactbtn {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.mobiDisplay {
+	display: block!important;
+}
+.mobiDisplayNone {
+	display: none;
+}
+.section4 .arcBox .content h3::before {
+	left: 0px;
+	display: none;
+}
+.section4 .arcBox .content.contentright h3::before {
+	width: 100%;
+}
+.section5 .section5background {
+	width: 100%;
+	padding-top: 45px;
+	left: 0px;
+	bottom: 0px;
+}
+.section5 .tiltImg {
+    max-width: 480px;
+    max-height: 300px;
+    position: relative;
+    bottom: 200px;
+    z-index: 99;
+    margin: 0px auto;
+    height: auto;
+    width: auto;
+}
+.section5background .panel-group {
+	padding: 0px 15px;
+	position: relative;
+    top: 350px;
+}
+.navbar-brand {
+	padding: 15px ;
+}
+.section5 {
+	padding:60px 0px 0px 0px;
+}
+.websiteby p {
+	position: relative;
+    bottom: -5px;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 14px;
+    letter-spacing: 0.57px;
+    color: #ffffff;
+    margin: 0px;
+   /* right: 28px;*/
+}
+.websiteby p a {
+    position: relative;
+    /* left: 3px; */
+    border-bottom: 1px solid #fff;
+    /* float: right; */
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 14px;
+    letter-spacing: 0.57px;
+    color: #ffffff;
+    margin: 0px;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/*.section6 {
+  display: none;
+}
+.mobilesection {
+  display: block;
+}*/
+.moduleBoxes::before {
+	display: none;
+	
+}
+.websiteby {
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    float: none !important;
+}
+.contact-deatils1 {
+	position: relative;
+	padding: 0px 23px 10px;
+}
+.logosection {
+	padding: 40px 0px 75px;
+}
+.arcImg .topBody img {
+	width: 184px;
+    height: 178px;
+}
+.section4 .arcBox .content {
+    margin: 50px 0px 0px;
+}
+.section4 .arcBox {
+	background-position: top;
+	background-size: cover;
+	width: 100%;
+	transform: rotate(-360deg);
+    opacity: 1.05;
+}
+.mobileapplication {
+  display: block;
+}
+.rectangle h2 br {
+	display: none;
+}
+.section2mobile {
+  display: block !important;
+}
+.section2mobile .secondsection {
+	padding-right: 20px;
+    padding-left: 20px;
+}
+.arcImg .bottomBody img {
+	    width: 220px;
+    height: 142px;
+}
+@media (min-width: 375px) and (max-width: 479px) {
+  .contactdetails .logo1 img {
+   top: 379px;
+    left: 65px;
+    bottom: 50px;
+}
+.logo1 p {
+   top: 386px;
+    left: 125px;
+    position: absolute;
+}
+}
+
+
+.textureapplication img {
+  width: 168px;
+    height: 207px;
+}
+.section6 .accordionDemomobi::before {
+    position: absolute;
+    content: "";
+  width: 1px;
+    height: 304px;
+    top: 195px;
+    background: #0d0906;
+}
+.section6 .accordionDemomobi::after {
+    content: "";
+    position: absolute;
+   top: 200px;
+    left: 9px;
+    width: 3px;
+    background: #000;
+    height: 120px;
+}
+ .startAnimation::after {
+    animation: mymove 6s;
+}
+.section6 {
+    margin-top: 0px;
+    height: auto;
+}
+.homesectiondesktop {
+	display: none;
+}
+.homesectionmobile {
+	display: block !important;
+}
+.section5 .container {
+	padding: 0px;
+}
+.section6 .accordionDemo {
+    position: absolute;
+    height: auto;
+}
+.arcli {
+  display: block !important;
+}
+.constructionli {
+  display: block !important;
+}
+.arclid {
+  display: none !important;
+}
+.constructionlid {
+  display: none !important;
+}
+.msc-content {
+    padding: 10px 0px;
+    margin-top: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+}
+/* =============================== End: (min-width: 320px) and (max-width: 479px) =============================== */
+
+
+/* =============================== Start: (min-width:  480px) and (max-width: 767px) =============================== */
+@media (min-width:  480px) and (max-width: 767px) {
+
+.ourModules .moduleImg {
+    width: 253px;
+    margin: 0 auto -59px;
+}
+.comparisonmodal .comparisonTable .column {
+    margin-bottom: 15px;
+    text-align: center;
+}
+.comparisonmodal .column.column1::before, .comparisonmodal .column.column2::before {
+	display: none;
+}
+.navbar-responsive {
+	background: #fff;
+    /*border: 1px solid #b3b3b3;*/
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.39);
+    border-radius: 0px;
+    margin: 0px;
+    padding: 5px 0px;
+    position: relative;
+
+}
+.navbar-brand img {
+		margin-right: 70px;
+		margin-left: 0px !important;
+		margin-top: 0px !important;
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #000;
+}
+.imghero {
+    margin-top: 0px;
+    height: 480px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.bannercontent {
+    margin: 35px 30px 0px;
+}
+.logo img {
+	width: 250px;
+	left: 3px;
+    top: -25px;
+}
+.contact-deatils1 a {
+	font-size: 15px;
+	height: 18px;
+}
+.contact-deatils2 li a {
+	font-size: 15px;
+	height: 18px;
+}
+.productLi a {
+	line-height: 34px;
+}
+.banner-responsive {
+    margin-top: 0px;
+}
+.section2 .section2Img {
+      height: 139px;
+    padding-top: 25px;
+    margin-bottom: 48px;
+}
+.section2 .section2Img img {
+   height: 215px;
+    padding-top: 16px;
+    text-align: center;
+    margin-bottom: 0px !important;
+}
+.section2 {
+    margin-top: 20px;
+}
+.secondsection p {
+    padding: 0px 22px;
+    text-align: left;
+}
+.nav > li {
+	margin: -35px;
+    margin-top: 10px;
+    padding-bottom: 20px;
+}
+.navbar-inverse .navbar-nav > li > a {
+	font-size: 12px;
+}
+.navbar-nav-responsive {
+	background-color: #e6e6e6;
+	display: none;
+}
+.banner {
+	height: 350px;
+}
+.bannercontent h2 {
+	left: 0px;
+	font-size: 29px;
+}
+.bannercontent p {
+	left: 0px;
+	font-size: 15px;
+	line-height: 28px; 
+	letter-spacing: 0.57px;
+}
+.content1 p {
+	font-size: 15px;
+	line-height: 25px; 
+}
+.section4 h2 {
+	font-size: 30px;
+	line-height: 35px;
+	letter-spacing: 0.8px;
+}
+.section3 .content1 h3 {
+	font-size: 20px;
+	line-height: 25px;
+}
+.section4 .titlecontent h3 {
+	font-size: 20px;
+	line-height: 25px;
+	font-weight: 600;
+
+}
+.constructioncontent p {
+	font-size: 15px;
+	line-height: 25px;
+	letter-spacing: 0.3px;
+}
+.section5 h2 {
+	font-size: 30px;
+	line-height: 35px;
+}
+.section4 {
+	padding: 10px;
+}
+.featured .logo img {
+	width: 100%;
+    position: relative;
+    margin: 20px auto;
+    margin-left: -20px;
+}
+.section2content h2 {
+	font-size: 30px;
+	line-height: 35px;
+}
+.section2img img {
+	width: 100%;
+	margin: 40px auto;
+}
+.section3 {
+	padding: 0px 70px;
+}
+.constructioncontent .text-center img {
+	width: 100%;
+}
+.section5 p {
+	width: 100%;
+	font-size: 15px;
+	line-height: 25px;
+}
+.section6 .text-center h2 {
+	font-size: 30px;
+	line-height: 35px;
+}
+.section6 .text-center p {
+	font-size: 15px;
+	line-height: 25px;
+}
+.apllicationcontent {
+	padding: 0px;
+}
+.panel-body {
+	font-size: 15px;
+	line-height: 25px;
+}
+.moduleBoxes h2 {
+	font-size: 30px;
+    line-height: 35px;
+}
+#modulearea {
+	margin-top: 60px !important;
+	padding: 10px 0px 40px;		
+}
+.ourModules .modulescontent {
+	width: 100%;
+	height: auto;
+}
+.ourModules p {
+	font-size: 15px;
+	line-height: 25px;
+}
+.ourModules .modulescontent p {
+	font-size: 15px;
+	line-height: 25px;
+	height: auto;
+}
+.getintouchsection .getintouch .requestdemo1 h2 {
+	font-size: 29px;
+    line-height: 35px;
+    text-align: center;
+}
+.getintouchsection .getintouch .requestdemo1 p {
+	width: 100%;
+	font-size: 15px;
+	line-height: 25px;
+    text-align: center;
+}
+.getintouchsection {
+	padding: 20px;
+}
+.contactbtn button {
+	margin-left: 85px;
+	padding: 7px 15px;
+    margin-top: 30px;
+    width: 215px;
+    height: 50px;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contactdetails .logo1 img {
+	top: 0px;
+	left:0px;
+}
+.contactdetails {
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.contact-deatils1 {
+	left: 0px;
+	padding: 0px 22px 10px;
+}
+.contactdetails {
+    padding: 30px 0px 0px; 
+    margin: 0px;
+}
+.nav-pills > li {
+	margin: 0px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+}
+.modal-dialog-contactus {
+	width: 96%;
+}
+.modal-content-contactus {
+	padding: 10px;
+}
+.modal-body {
+	padding: 0px;
+}
+.modal-title-contactus {
+	font-size: 25px;
+}
+.btn-primary {
+	float: none;
+}
+.modal-header-contactus .modal-contactus-heading-border {
+	background-image: linear-gradient(to right, #b3b3b3, #b3b3b3);
+}
+.getintouchsection {
+	padding: 30px 0px 30px !important;
+}
+.modal-content-contactus form {
+	padding:20px 0px 20px 0px !important;
+}
+.section2 .section2bg {
+	background-color: #26282d !important;
+	height: auto;
+	padding: 20px 20px 50px;
+}
+.section2 .section2bg h3 {
+    position: relative;
+    left: 0px;
+    top: 0px;
+    margin: 14px 0px 0px 25px;
+}
+.section4 .content h1 {
+	font-size: 29px;
+}
+.section2 .section2bg .content1 img {
+    width: auto;
+    position: relative;
+    left: 0px;
+    margin: 0 auto;
+}
+.section2 .btn-lineup span {
+	font-size: 16px;
+}
+.section2 .btn-lineup  {
+	height: 60px !important;
+	width: 300px !important;
+}
+.secondsection h2 {
+	font-size: 29px;
+	margin: 15px 25px;
+}
+.section5 .section5background {
+  	height: 360px;
+    width: 100%;
+    padding-top: 64px;
+    position: relative;
+}
+.section5 .section5background .rectangle {
+    background-color: #26282d;
+    padding: 20px 0px 20px;
+    position: relative;
+    width: 100%;
+    height: 700px;
+    left: 0px;
+    z-index: 99;
+}
+.section5 {
+    padding: 60px 0px 0px;
+    height: auto;
+}
+.section5 .section5background .rectangle h2 {
+    font-size: 28px;
+    line-height: 35px;
+    margin-bottom: 10px;
+    padding: 0px 15px;
+    text-align: center;
+}
+.section5 .section5background .rectangle .panel-title a[aria-expanded="true"]::before {
+	left: -27px;
+}
+.section5 .section5background .rectangle .panel-default::before {
+	left: 10px;
+}
+.section5 .tiltImg {
+    max-width: 676px;
+    max-height: 450px;
+    position: relative;
+    bottom: 200px;
+    z-index: 99;
+    margin: 0px auto;
+    width: auto;
+    height: 100%;
+}
+.internImg {
+    height: 100px;
+}
+.applicationimg {
+    margin-top: 0px;
+}
+.section5 .mobilesection5 .tiltImg img  {
+	position: relative;
+	bottom: 210px;
+}
+.section5 .section5background .rectangle .panel-title a[aria-expanded="false"]::before {
+	left: -19px;
+}
+.section5background .panel-collapse .panel-body {
+	font-size: 15px;
+	font-weight: 300 !important;
+	width: 100% !important
+}
+.section6 {
+	margin-top: 50px;
+	height: auto;
+}
+.apllicationcontent {
+	padding-left: 20px !important;
+}
+.section6.applications h2 {
+	font-size: 29px;
+}
+.btn-accordian.collapsed {
+	font-size: 18px;
+}
+.btn-accordian {
+	font-size: 18px;
+}
+.applicationbackgroundimg {
+    padding: 50px 0px;
+    height: 260px;
+    width: 100%;
+}
+.applicationbackgroundimg img {
+    width: 380px;
+    height: auto;
+    right: 0px;
+}
+.textureapplication {
+    bottom: 50px;
+    position: relative;
+    left: 0px;
+    float: left;
+    height: 285px;
+}
+.section6 .accordionDemo {
+    margin-top: 280px;
+}
+.logosection img {
+	width: 100%;
+}
+.pr-8 {
+    padding-right: 16px !important;
+}
+.pl-8 {
+    padding-left: 15px !important;
+}
+.navbar-nav-responsive {
+	background-color: #fff;
+}
+.navbar-nav-responsive .btn {
+	left: 6px;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+	background-color: #fff;
+	border-color: #fff;
+}
+.btn-modal-contactus-submit {
+	width: 170px;
+	left: -2px;
+
+}
+.comparisonmodal .modal-header h2 {
+	font-size: 29px;
+}
+.comparisonmodal .modal-content {
+	padding: 30px 30px
+}
+.comparisonmodal .modal-header h6 {
+	margin-bottom: 10px;
+}
+.comparisonmodal .comparisonTable .column h1 {
+	font-size: 18px;
+}
+.contact-deatils1 address {
+	margin-bottom: 10px;
+}
+.contact-deatils2 h4 {
+	margin-bottom: 8px;
+	font-size: 17px;
+}
+.mobiDisplay {
+	display: block!important;
+}
+.mobiDisplayNone {
+	display: none;
+}
+.section4 .arcBox .content h3::before {
+    display: none;
+}
+.section4 .arcBox .content.contentright h3::before {
+	width: 100%;
+}
+.contactdetails .logo1 p {
+    position: absolute;
+    top: 7px;
+    left: 60px;
+}
+.logo1 {
+	position: relative;
+}
+.section5background .panel-group {
+    padding: 0px 15px;
+    position: relative;
+    top: 450px;
+}
+br {
+	display: none;
+}
+.topBody img {
+	width: 184px;
+    height: 178px;
+}
+.copyright {
+	text-align: center;
+	padding-bottom: 40px;
+}
+.copyright p {
+	line-height: 30px;
+}
+.footerLink {
+	text-align: center;
+}
+.logoMoboShow {
+	display: block !important;
+	padding: 30px 0px;
+}
+.logo1 {
+	display: none;
+}
+.contact-deatils2 {
+    position: relative;
+    padding: 15px 23px;
+    border-top: 1px solid #f8f8f82b;
+    border-bottom: 1px solid #f8f8f82b;
+}
+.foot-img {
+	text-align: center;
+}
+.logosection {
+	padding: 40px 0px 40px;
+}
+.homesectiondesktop {
+	display: none;
+}
+.homesectionmobile {
+	display: block !important;
+}
+.section2 {
+	display: none;
+}
+.section2mobile {
+	display: block !important;
+}
+.section2 .section2bg .content1 {
+    margin: 25px auto 0px;
+    width: 320px;
+}
+.section4 .arcBox .content h3 {
+	font-size: 20px;
+}
+.no-mobi-pad {
+	padding: 0px;
+}
+.section6 .accordionDemo::before {
+	left: 0px;
+}
+.arcli {
+  display: block !important;
+}
+.constructionli {
+  display: block !important;
+}
+.arclid {
+  display: none !important;
+}
+.constructionlid {
+  display: none !important;
+}
+.msc-content {
+    padding: 10px 0px;
+    margin-top: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+}
+/* =============================== End: (min-width:  480px) and (max-width: 767px) =============================== */
+
+
+/* =============================== Start: (min-width:  768px) and (max-width: 1023px) =============================== */
+@media (min-width:  768px) and (max-width: 1023px) {
+	
+.navbar-responsive {
+	background: #fff;
+    /*border: 1px solid #b3b3b3;*/
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.39);
+    border-radius: 0px;
+    margin: 0px;
+    padding: 5px 0px;
+    position: relative;
+}
+.navbar-brand > img {
+	margin:0px !important;
+}
+.imghero {
+    margin-top: 20px;
+    height: 728px;
+}
+.bannercontent h2 {
+    left: 0px;
+    font-size: 39px;
+}
+.secondsection h2 {
+    font-size: 39px;
+} 
+.navbar-nav-responsive {
+	display: none;
+	background-color: #e6e6e6;
+}
+.banner-responsive {
+	margin-top: 0px;
+}
+.bannercontent {
+	margin: 20px;
+}
+.nav > li {
+	margin: -35px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+.nav-pills > li {
+	margin: 0px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+	background-color: #3333;
+}
+.navbar-inverse .navbar-nav > li > a {
+	font-size: 12px;
+	margin: 4px 20px;
+    padding: 4px 30px;
+}
+.bannercontent h2 {
+	left: 0px !important;
+	font-size: 39px;
+}
+.section2 {
+    margin-top: 20px;
+}
+.comparisonmodal .modal-header h2 {
+	font-size: 39px;
+}
+.comparisonmodal .modal-content {
+    padding: 20px 30px;
+ }
+.section2 .section2Img {
+	height: 225px;
+    padding-top: 66px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.section2 .section2Img img {
+    height: 325px;
+}
+.section2 .section2bg {
+	height: 100%;
+}
+.section2 .section2bg h3 {
+	position: relative;
+    left: 200px;
+    bottom: 59px;
+} 
+.content1 img {
+	position: relative;
+	left: 110px;
+}
+.section5 .section5background {
+	width: 100%;
+}
+.section5 .tiltImg {
+    width: 600px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+.section6 {
+    margin-top: 200px;
+}
+.section6.applications h2 {
+	text-align: center;
+	font-size: 39px;
+}
+.bannercontent p {
+	left: 0px !important;
+}
+.btn-primary {
+	margin-top: 10px;
+}
+.btn {
+	padding: 5px 15px;
+}
+.banner {
+	height: 350px;
+}
+.featured .logo img {
+	width: 100%;
+	margin: 20px auto;
+	left: 0px;
+}
+.section2content h2 {
+	font-size: 30px;
+	line-height: 35px;
+}
+.section2img img {
+	width: 100%;
+	margin-top: 40px;
+}
+.section3 {
+	padding: 0px 40px;
+}
+.section3 .content1 {
+	margin-left: 30px;
+}
+.section3 .content1 img {
+	position: relative;
+	left: -60px;
+	top: 60px;
+	width: 50px;
+}
+.section4 h2 {
+	font-size: 30px;
+	line-height: 35px;
+}
+.constructioncontent .text-center img {
+	width: 100%;
+}
+.section5 p {
+	width: 100%;
+}
+.section5 h2 {
+	font-size: 30px;
+	line-height: 35px;
+}
+.section6 .text-center h2 {
+	font-size: 30px;
+	line-height: 35px;
+}
+.apllicationcontent {
+	padding: 20px;
+}
+.ourModules h2 {
+	font-size: 30px;
+	line-height: 35px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#modulearea {
+    padding: 0px 0px 35px;
+    margin-top: 290px;
+}
+.applicationbackgroundimg {
+	padding: 30px 65px 0px 80px;
+    height: 370px;
+    position: relative;
+    width: 500px;
+    margin-left: 40px;
+}
+.textureapplication {
+    left: -115px !important;
+    float: right;;
+    /* left: 40px; */
+    float: right;
+    height: 290px;
+    width: 300px;
+    right: 110px;
+}
+.ourModules .modulescontent {
+	width: 100%;
+}
+.getintouchsection {
+	padding: 40px 0px;
+}
+.getintouchsection .getintouch .requestdemo1 h2 {
+	text-align: center;
+	font-size: 30px;
+	line-height: 35px;
+}
+.getintouchsection .getintouch .requestdemo1 p {
+	text-align: center;
+}
+.contactbtn button {
+    margin-top: 10px;
+    padding: 7px 20px;
+    background-color: #222;
+	border-color:#222;
+	color:#fff;
+    font-weight: 600;
+    margin-left: 228px;
+}
+.modal-dialog-contactus {
+	width: 100%;
+}
+.modal-content-contactus {
+	padding: 10px;
+}
+.modal-body {
+	padding: 0px;
+}
+.modal-title-contactus {
+	font-size: 25px;
+}
+.btn-primary {
+	float: none;
+}
+.modal-header-contactus .modal-contactus-heading-border {
+	background-image: linear-gradient(to right, #b3b3b3, #b3b3b3);
+}
+.contact-deatils1 {
+	width: auto;
+	margin-left: 120px;
+}
+
+}
+
+
+
+/* =============================== End: (min-width:  768px) and (max-width: 1023px) =============================== */
+@media (min-width:  1024px) and (max-width: 1280px) {
+
+
+}
+/* =============================== End: (min-width:  1024px) and (max-width: 1280px) =============================== */
+
