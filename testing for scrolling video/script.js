@@ -45,8 +45,8 @@ scene.on("update", e => {
     var offSet1 = window.innerHeight / 2;
 
     scene.offset(offSet1)
-    console.log("screen offset=" + offSet1)
-    console.log("sceen offset=" + scene.offset())
+    // console.log("screen offset=" + offSet1)
+    // console.log("sceen offset=" + scene.offset())
     scrollpos = e.scrollPos / 1000;
     scrollpos -= scrolloffset;
 
