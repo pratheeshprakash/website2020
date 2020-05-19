@@ -13,8 +13,48 @@ const end = section.querySelector('h1');
 
 const controller = new ScrollMagic.Controller();
 
+const sceneA = new ScrollMagic.Scene({
+        duration: 2000, // length of video in ms
+        triggerElement: oneMoreSection, //name of the element to use as trigger
+        offset: offSet, // this should be half the height of the video to work properly
+        triggerHook: 0.5 // when to trigger 0 is top 0.5 mid and 1 is bottom
+    })
+    .addIndicators() //used for only debugging and showing trigger handles
+    .setPin(oneMoreSection) // used for locking the scene in position
+    // .setClassToggle("#collapseOne,#collapseTwo", "show") // add class toggle
+    .addTo(controller);
+const sceneA1 = new ScrollMagic.Scene({
+        duration: 500, // length of video in ms
+        triggerElement: oneMoreSection, //name of the element to use as trigger
+        offset: offSet+200, // this should be half the height of the video to work properly
+        triggerHook: 0.5 // when to trigger 0 is top 0.5 mid and 1 is bottom
+    })
+    .addIndicators() //used for only debugging and showing trigger handles
+    // .setPin(oneMoreSection) // used for locking the scene in position
+    .setClassToggle("#collapseOne", "show") // add class toggle
+    .addTo(controller);
+const sceneA2 = new ScrollMagic.Scene({
+        duration: 500, // length of video in ms
+        triggerElement: oneMoreSection, //name of the element to use as trigger
+        offset: offSet + 700, // this should be half the height of the video to work properly
+        triggerHook: 0.5 // when to trigger 0 is top 0.5 mid and 1 is bottom
+    })
+    .addIndicators() //used for only debugging and showing trigger handles
+    // .setPin(oneMoreSection) // used for locking the scene in position
+    .setClassToggle("#collapseTwo", "show") // add class toggle
+    .addTo(controller);
+const sceneA3 = new ScrollMagic.Scene({
+        duration: 500, // length of video in ms
+        triggerElement: oneMoreSection, //name of the element to use as trigger
+        offset: offSet + 1200, // this should be half the height of the video to work properly
+        triggerHook: 0.5 // when to trigger 0 is top 0.5 mid and 1 is bottom
+    })
+    .addIndicators() //used for only debugging and showing trigger handles
+    // .setPin(oneMoreSection) // used for locking the scene in position
+    .setClassToggle("#collapseThree", "show") // add class toggle
+    .addTo(controller);
 const scene = new ScrollMagic.Scene({
-        duration: 34000, // length of video in ms
+        duration: 5000, // length of video in ms
         triggerElement: scrollVideo, //name of the element to use as trigger
         offset: offSet, // this should be half the height of the video to work properly
         triggerHook: 0.5 // when to trigger 0 is top 0.5 mid and 1 is bottom

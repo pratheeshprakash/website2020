@@ -50,10 +50,15 @@
 }
 
 #oneMoreSection h1 {
-    padding-top: 300px;
+    padding-top: 10px;
     text-align: center;
     font-size: 60px;
 }
 p font-family helvetica {
     font-size: 24px;
+}
+
+#accordionExample {
+    width:50%;
+    padding-left: 50px;
 }
