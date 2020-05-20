@@ -92,10 +92,12 @@ font-face {
  }
 .navbar {
     position: fixed;
-    min-height: 70px;
+    height:0px;
+    min-height: 0px;
     margin-bottom: 0;
     width: 100%;
-    background:transparent;
+    background:linear-gradient(to top, rgba(255, 255, 255, 0), #ffffff 100%);
+    transition: 1s;
 }
 .contact-deatils2 h4 {
 	color: #ffffff;
@@ -1814,9 +1816,10 @@ padding: 6px 30px 6px 14px;
   width: 100%;
 }
 .scrolled {
-  background-image: linear-gradient(to top, rgba(255, 255, 255, 0), #ffffff 21%);
-  transition: 0.3s;
-  min-height: 100px;
+  background-image: linear-gradient(to top, rgba(255, 255, 255, 0), #ffffff 100%);
+  transition: 1s;
+  height: 100px;
+  /*min-height: 100px;*/
 }
 .form-group select {
       font-family: 'Open Sans', sans-serif !important;
