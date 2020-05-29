@@ -17,7 +17,7 @@ $(document).ready(function() {
     const controller = new ScrollMagic.Controller();
 
     const scene = new ScrollMagic.Scene({
-            duration: 5000, // length of video in ms
+            duration: 10000, // length of video in ms
             triggerElement: scrollVideo, //name of the element to use as trigger
             offset: offSet, // this should be half the height of the video to work properly
             triggerHook: 0.5 // when to trigger 0 is top 0.5 mid and 1 is bottom
@@ -31,7 +31,7 @@ $(document).ready(function() {
     const sceneA = new ScrollMagic.Scene({
             duration: 1540, // length of video in ms
             triggerElement: userinterface, //name of the element to use as trigger
-            offset: offSet + 120, // this should be half the height of the video to work properly
+            offset: window.innerHeight /1.5, // this should be half the height of the video to work properly
             triggerHook: 0.5 // when to trigger 0 is top 0.5 mid and 1 is bottom
         })
         .addIndicators() //used for only debugging and showing trigger handles
@@ -85,7 +85,7 @@ $(document).ready(function() {
     const scene3 = new ScrollMagic.Scene({
             duration: 1930, // length of video in ms
             triggerElement: application, //name of the element to use as trigger
-            offset: offSet - 70, // this should be half the height of the video to work properly
+            offset: window.innerHeight /2.4, // this should be half the height of the video to work properly
             triggerHook: 0.5 // when to trigger 0 is top 0.5 mid and 1 is bottom
         })
         .addIndicators() //used for only debugging and showing trigger handles
@@ -187,5 +187,5 @@ $(document).ready(function() {
         delay += (scrollpos - delay) * accVal;
         // console.log(delay);
         video.currentTime = delay;
-    }, 33.3); //frame rate 30 fps time in ms
+    },50); //frame rate 30 fps time in ms
 });

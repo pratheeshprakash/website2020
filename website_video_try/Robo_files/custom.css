@@ -669,6 +669,7 @@ font-family: 'Archivo', sans-serif !important;
    /* margin-top: -110px;*/
     z-index: 9999;
 }
+
 .secondsection h2 {
     font-family: 'Archivo', sans-serif !important;
     font-size: 42px;
@@ -908,6 +909,9 @@ padding: 6px 30px 6px 14px;
 .newcss.Construction {
   margin: 0px;
 } 
+#homesection {
+  height: 100vh;
+}
 #homesection .bannerImg {
   width: 100%;
   /*background-size: cover;*/
